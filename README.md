@@ -33,6 +33,7 @@
 - **Trabajo en equipo y comunicación asertiva.**
 - **Adaptabilidad y aprendizaje continuo.**
 - **comunicacion clara con clientes no tecnicos.**
+- **Resolución pacífica de conflictos.**
 ---
 
 ## 🎨 Formatos y Fuentes Disponibles
