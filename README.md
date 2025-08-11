@@ -17,7 +17,13 @@
   
 
 ### **LAIKA** _(2022 - 2023)_
-- Analista de sorporte Tecnico y descripción breve.
+- Analista de sorporte Tecnico.
+- alistamiento de equipos
+- mantenimiento de equipos
+- Soporte remoto con Anydesk
+- creacion de accesos
+- atencion al cliente
+- 
 
 ## 🎓 Educación
 ### **SENA** _(2025 - Actualidad)_
