@@ -20,8 +20,9 @@
 - Analista de sorporte Tecnico y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA** _(2025 - Actualidad)_
+- Aprendiz analisis y desarrollo de software.
+- Tecnico en mantenimiento en equipos de computo.
 
 ## 💡 Habilidades
 - **Habilidad 1**
