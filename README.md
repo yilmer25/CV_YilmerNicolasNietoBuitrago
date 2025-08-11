@@ -27,6 +27,8 @@
 ### **SENA** _(2025 - Actualidad)_
 - Aprendiz analisis y desarrollo de software.
 - Tecnico en mantenimiento en equipos de computo.
+### **I.E.D Miguel Samper Agudelo** _(2021)_
+- Bachiller Academico. 
 
 ## 💡 Habilidades
 - **Conocimientos básicos en Python.**
