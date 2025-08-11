@@ -4,7 +4,6 @@
 ## Yilmer Nicolas Nieto Buitrago
 **Profesión:** _Analista y desarrollador de software_
 ## 📞 Contacto
-- **Teléfono:** +57 321 329 7186
 - **Email:** [yilmernicolasnietobuitrago@gmail.com](yilmernicolasnietobuitrago@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
