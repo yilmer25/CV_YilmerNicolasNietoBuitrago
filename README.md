@@ -17,11 +17,11 @@
 
 ### **LAIKA** _(2022 - 2023)_
 - Analista de sorporte Tecnico.
-- Alistamiento de equipos
-- Mantenimiento de equipos
-- Soporte remoto con Anydesk
-- Creacion de accesos
-- Atencion al cliente
+  - Alistamiento de equipos
+  - Mantenimiento de equipos
+  - Soporte remoto con Anydesk
+  - Creacion de accesos
+  - Atencion al cliente
 
 ## 🎓 Educación
 ### **SENA** _(2025 - Actualidad)_
