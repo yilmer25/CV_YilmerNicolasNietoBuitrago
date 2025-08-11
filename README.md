@@ -4,7 +4,7 @@
 ## Yilmer Nicolas Nieto Buitrago
 **Profesión:** _Analista y desarrollador de software_
 ## 📞 Contacto
-- **Email:** [yilmernicolasnietobuitrago@gmail.com](yilmernicolasnietobuitrago@gmail.com)
+- **Email:** [yilmernicolasnietobuitrago@gmail.com](mailto:yilmernicolasnietobuitrago@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
