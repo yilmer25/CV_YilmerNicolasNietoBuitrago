@@ -29,9 +29,9 @@
 - Tecnico en mantenimiento en equipos de computo.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Conocimientos básicos en Python.**
+- **Trabajo en equipo y comunicación asertiva.**
+- **Adaptabilidad y aprendizaje continuo.**
 
 ---
 
