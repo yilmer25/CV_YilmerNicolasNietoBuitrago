@@ -32,7 +32,7 @@
 - **Conocimientos básicos en Python.**
 - **Trabajo en equipo y comunicación asertiva.**
 - **Adaptabilidad y aprendizaje continuo.**
-
+- **comunicacion clara con clientes no tecnicos.**
 ---
 
 ## 🎨 Formatos y Fuentes Disponibles
